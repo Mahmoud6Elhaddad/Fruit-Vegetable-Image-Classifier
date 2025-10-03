@@ -17,7 +17,7 @@ A simple **Image Classification Web App** built with **Streamlit** and **TensorF
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Fruit-Vegetable-Image-Classifier.git
+   git clone https://github.com/Mahmoud6Elhaddad/Fruit-Vegetable-Image-Classifier.git
    cd Fruit-Vegetable-Image-Classifier
 2. Install dependencies:
    pip install -r requirements.txt
@@ -25,4 +25,5 @@ A simple **Image Classification Web App** built with **Streamlit** and **TensorF
   streamlit run app.py
 4. 📦 Dataset
    The dataset used for training is available on Google Drive:
+   https://drive.google.com/drive/folders/1AOzdEfNxO7OqoHZXEg9auiBAvP2puvo-?usp=sharing
 Note: You need to download the dataset and place it in the correct directory if you want to retrain the model.
