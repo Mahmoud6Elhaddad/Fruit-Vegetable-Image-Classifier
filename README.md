@@ -26,6 +26,7 @@ A simple **Image Classification Web App** built with **Streamlit** and **TensorF
    ```bash
    streamlit run app.py
 5. 📦 Dataset
+   
    The dataset used for training is available on Google Drive:
    ```bash
    https://drive.google.com/drive/folders/1AOzdEfNxO7OqoHZXEg9auiBAvP2puvo-?usp=sharing
